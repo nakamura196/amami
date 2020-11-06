@@ -1,0 +1,992 @@
+[
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1956,3449,55,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "119"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1947,2668,18,89",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "郷土雑誌『奄"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1947,2801,17,17",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "美』"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1949,2848,15,104",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "毎月一回一日發行。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1914,2027,46,253",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "暑中御伺"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1717,43,328,79",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Black©Kodak,2007TM:Kodak3/Color"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1882,3449,36,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|18"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1841,1959,59,493",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鎧境『霧島』に培はれた鄉土の匂いを齎すような痛土の新茶縣外の方に御焚め用します"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1867,2373,36,63",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "銘茶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1801,891,18,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "五〇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1807,1992,18,195",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "自園製銘茶、香りの新しい"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1796,3450,35,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "17"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1789,2232,18,341",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "何卒多少に拘はらす御用命をお願いたし本す"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1771,1988,21,202",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "水色の美しい学園のお茶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1739,2224,16,54",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "霧局銘茶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1703,1993,53,167",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鹿兒島市易居町棧橋通電話二三一八番"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1754,2321,-30,1",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "8mcue田中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1714,2447,41,11",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "福"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1705,2223,16,64",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "卸小資"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1687,2365,18,225",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "製造所姶良郡西國分「小田"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1634,2671,84,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "號月八"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1650,2810,18,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "恋"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1231,662,774,1071",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一、名瀬潟湖線自名瀬町金久至宇枚縣ひら警官隊急派一方日本百合根輸出組合長鈴木清藏氏調查進涉过当本縣警察部に村湯河」一五、〇三〇は知事宛陳情書を提出し「百三十八名百合騒の永良部島へては二十名の警官を派して警戒に備一、名瀬久慈線自住用村役勝至西方の反対者側には検査員僅か六名を派遣既報永良部百合産業組合の紛擾は更へ遺憾な對策を講じ內務部に於村久慈六、〇〇せるのみで優良品をも不合格とし全部に姉妹組合たる永良部南合同業組合にては調査に手間取り應策が決しない一、船津野線自東天城村花德至原形を壊滅して證藤を常減し務用時期飛火し同組合の百合我檢査が派にので楽を煮やし當市の松尾、國分、岩天城村本土野H、00を失はしめん目的から検査數量も第一封し酸に失することから父復軋轢を來切三辯護士らは十五日内務部長らを訪一、船津伊仙線自聴津村麺津伊仙日は一萬二千除球第二日は七千除球第し兩組合の紛争がこんがらがつて金々問し一刻も早く断乎たる措置を講ぜら村鹿浦」五、〇三日以來今日迄平均三千餘球に過ぎず城大し事態念を告げたので七月八日にれ組合側及反組合側の微登敷基合格率一、伊仙布木名線自伊仙村鹿浦天この剰合で進で時は契約數量二百七十比較を調査して不正検査の真相を明か至り松元沖永良部署長から繋辞察部に城村阿布木名五、。八萬球の協賛は本年経出時期を全然失つ宛てにし以つて速かに檢査員の更迭その他一、名龍郷線白龍郷村浦至館邪村てしまる事になり辛うじて合格したも應念展置されたき戸を要望し日本百合百合根出荷問題に關して七日から八のも言を左右に託して檢查證を交附せ日にかけて騒ぎを惹起し賛成派ては輪出組合の青木菊次郎氏もわざ~來一、山阿布木名線自東天城村山至天ず島外に運搬せしめる運酸機線の使用魔して同樣の陳情をなし生產地永良部各所で出荷の妨害をなし、ます、城村中上野五、〇を禁じ手荷物で運べば賞行委員と稱すに赴いた。悪化するに至る見込、檢事正と打合一、古仁屋潟路線西方村篠川至宇る暴民が愛來するので裁培者二百名で三菱派の出荷三菱派組合員のせの上檢事、判事の急派を乞ふ検村島跨線三、〇三。護衛し辛うじて甲地から乙地へ運搬し出荷はすらくと選びに小米港からなは引積き出荷に際しては暴動激化合四五、七、三八、。た例もある同業組合の檢査欄の濫用ものおそれあり三千箱を瑞鳳丸にて和泊港から千箱をこの中名瀬湯灣間二里短締せるは大事茲に至つては全く驚くの外なく組合との電報があつた。郡山→警察部長は昭勢丸にて移出し荷便船次第二百萬球和村今里より宇檢田檢へ出た結果であ着任早々八日朝田中特高、廣岡保安、脱退者の財産も生活も全く蹂躙せられを出荷する筈であるが、横演の分は上り勉津本土野線は途中町村道に連絡す上山刑事、江口高等の各課長と協議のて居るので生きんがために如何なる事記の如く座迫を加へられ居るためか億るものであつてその他の個所は既に改結果保安課園田容部、刑事課有村幹部越を惹起するやも知れぬから検査の公かに約五十萬球を移出したのみである修済である。補、特高課中間警部補の三名を同島に正に勝し警告を獲せられたい」と組合農林省の調停想講諸願委員らの念派することに決定、同日午後五時鹿の不正液査を訴へ、横派栽培者も亦永良畿組合では展林省に対し横漫ト縣遊計畫變更兒島港出帆の開城丸で用途した。これ「優良球も三割しか合格させぬ、故意出組合と三菱との回落調停を依験した嚢に請顔還動を行った伊東名瀬町長と同時に大島警察署其他から濱川部長に検査を延ばして移出の時機を失するため農林省は縣に事件興相調査を命じらの立案にかる府縣道改修計結は初ら十七名の署官を取締應援のため同島無検査荷を許されたい」と要求しため上事賀六十五万四千九百十四脚を以へ出張せしめたが、こんなことは全地た一方組合からは農林省に勤し陳情員縣ては既に大島支県長に電命して勝員を急派した、つて縣道二十九里を開通せんとするも空前のことて識者は之を不面目なりとを急行せしめ同組合に對し檢查の公正前城のてあつたが、この後此の計声はこれに關し告を獲して居るが更にその後悲んてるる。村會議員當選者3をし前項支慶案を採りこれに向つの賞状詳細報告する萩大島支慶長に電て實現を期しつある。組合の不正検査を陳情命し同時に組合に對し厳重なる訓電を西方村(十八名)峠から最靈な電した。五一村議親五O玉利義吉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1587,1972,49,445",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "暑中御見舞申上げます"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1531,89,109,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1230,2667,681,302",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一月分金參拾刻郵祝内地五風は半年分金岡八拾本社の系譜とす4月分金回外はHEた謝金、一年分金園五拾菱一年五月分金五三年分金指「特別は候島社製別金參拾圓なリ口廣告竿役二段一頁料金{六E二十回兜兄島市下死田町九十八番地脚發行人武山宮g鹿児島市山下町三十番地行所花土美電話-六七-薩振替福価一九九一四郡愛は前金に限る4本器は御申込み次第直に返し同時に社発前位十ヶ月分金山た英命郵便で戴きます。典命便は金峯回以下は取扱いません。Am以下又は御意による一年分金山五拾一年れヶ月分石川、三年分拾叫た下さる方は御手飲本社口座に阿一九九一四帝へ囚税込みた願います。公証友の過中は本社介円以来の受訳者であり、その除・大部分何年かの検社友であります。それでたとひ社設が前金切れならとも、本誌は引装をといた数し、社袋は集合郵便を以て前金を頂戴することに致して居ります。故にもし御展の営合は御手敢その旨御一報をお願いいたします。A御殿居の場合~御手数早速新再開方とも御一線を引いひいたします。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1447,1994,109,578",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "公務のため東奔西走日夜寸暇をも得ず心ならずも暑中御見舞狀を差上いるここを遅延致して居ります何卒御諒承下され度不取敢紙上を以って御挨拶申上げます"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1449,3451,34,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "13"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1398,2029,18,136",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昭和七年八月一日」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1306,87,168,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Magenta"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1363,2202,18,235",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大阪市西區京町堀上通一三七"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1255,1974,95,610",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "金井正夫鄉土同胞各位"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1136,3023,108,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "-740-"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1182,3449,40,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "110"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1155,2514,19,182",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口四六飯貫全一脇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1121,2517,20,173",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口地圖賞二乗入"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1021,1935,129,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "著翠佳藤安"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1034,1969,118,510",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "沖縄の旅"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1016,2517,91,198",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口定價六十鏡送料四段口御注文は前金に限る(代金引替御断り)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1041,1368,-15,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "ぐ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=1007,3451,18,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "18"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=973,1418,72,90",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "市來改興東市來改政全東仲人"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=978,1488,-13,1",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "く"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=826,1953,169,363",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "らるこ在にを著快殊よ線編りは、著にりてを沖を琉そに紹入編切球の亘介情にに王地りしを女御國をよ究學獎の踏加うめ校め昔まふさいすようるは沖論るりかたる編次因す暢ののし第る達が古てで人の著今在あか士筆者にる"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=845,2075,150,796",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "に女學校放詠こして在るここ五箇年、縣下各地を歴遊して親し縄の古今に通ずる愛南今この一書を上梓して廣1の素の内容は沖縄の自然人文趣味津々たる好·四遊の客には懷舊の形見さな天人士にさっては更に感興深きものがあるこ信し"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=854,2359,132,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奄無以意る五"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=855,2427,131,70",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "士好明るの伴にがさそさ侶説"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=857,2830,139,50",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "去天風心な現下物"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=358,7,866,122",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "RedYellowKodakColorControlPatchesGreenCyanBlue"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=392,666,751,1071",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "七井友七四三加納海二志三四域菊民三三一選間玉江里語志路四三佐変助四三坂元重三二武成三三市風金山七之助金て四二他山信四〇久保勇一三二久保七三〇川崎嘉一碼中商武平安足の度四〇金子金富三九昌長三〇趣長太郎二九松元茂一和泊村(二十四名)村田重度三七加納作次郎三七宮山元次郎二八森宗吉二八重雄和泊島智野口萬明古里復帰三六武田文七五慶二七田原貞大郎七林高解有川真辰全川畑富金山、與密三三永吉服一職休次郎二七田畑仲藏二七大野義信和山西那画他田明大野智俊三三要養太郎三〇江嘉太郎二六中島撃二五里坊手々知名重信饒全川邊隆熊杉喜久願杉森城實久村(前)には誤植多かったため茲に再山播照景美留山病気十島村(+1名)す)前號大和村當選者氏名に丸山図頭時田愛利2五二中原辰造今井吉利賀島安央四九芝田丈一前田彦七竹島,重吉氏が現れてるた。四八田原信四八關彦太郎西村米保福嶺純銀口之島池田助八黑島川野政太郎四七安田能東天城村(十八名)四内田涼裁長濱登西原東一熊一畦布永吉池治硫黄島,日高甚吉令四二永井清盛四C水勝定山政勝時開楽山榮根折池田池度王城榮祥秀中之島永田岩登硫黄島安永幸內三九竹島央三七重井秀信間中野禽英吉田清徳內城本城宗線大城山田窪里中之原土岐商裁黒島中村與之助三七加酸志徳三七早米宜美全採助政白坂愛高川相良要文古里重村中信高原田文彦賀島敷根香水三六高一官英三五磁直滿手々前田磁貞花德向井質鄉後關福中信永嶺德田里安三町村選舉期日三五豊島恕俊三五田直茂花器楽山含照前田前照知名村(二十四名)因みに六月二十六日選舉を行つた郡内三五叶常形三五織地藤城山朝名古木木場福友知名川盛利太平米富十八村を除き残り三町村の選暴期日は花總部宮豊手々堀田富金全永島廣田中前常左の通りである。鎮西村母間重久房方化徳保坂嶺廣正名森政田皆根経内獻名規町昭和九年十二月一日定員三〇元井宮與志隣次郎馬山正義時花德直島直治令令四新納亮先用語道三方村全年十二月四日楽山清一大里天城村(二十四名)皆吉池一上城英宗軽東方村全十年五月二十四日全二四釜満秀山下福男久志検富永行登赤嶺岡本安廣一衆久秋田神羅北鄰秀光津留能傳次郎余多和泉民雄松原武原安千代安田森川久元山秀義商忠盛上田百吉東富位阿布木名安田佐和敏家久藤井彌戶芦満良山本先則田畑藤吉寛一雄梨久田喜拓哉西阿木名宮內解南川良亮黑貫菊地重德(新)鹿児島市山下町1〇德庄ト德田坊次郎全潮利姫染川安親德島中山()同市下荒田町九八阿布水名德田正忠松原前田彌太郎榮牛太郎登仲一郎高野里吉淺間瓶頑積湖龍中美盟和泉川秀一リ林二次郎森山犬新村中照川田西窪阿布木名鶴角松原麓住用村(十八名)電話一六七二番大津川德與論村(十八名)阿布木名榊純忠振替福岡一九九一四番三七市田實三五石原省三西阿木名窪田喜一吉田太郎茶花山下清信西田文英"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=466,2919,704,53",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "番匹一九九一応替振社美依三町下山市島兄鹿"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=758,2554,19,213",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口四六版百二十頁全一冊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=751,3465,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=639,1939,127,30",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "著考幽野茂"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=653,2017,135,502",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奄美傳說民謡"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=686,2555,57,194",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "定價金六拾錢送料金四口御註文は前金に限る"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=596,2009,187,310",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大傳說"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=654,2585,18,186",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(代金引替お断り)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=577,3466,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=556,1523,39,137",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "本社移轉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=445,1960,165,922",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口炎紙…奄美大島獨特の八月踊のフ「凸版」Do紹…鎮國情趣豊かな風景富典「クロタイプ」南溟の孤島の神秘的傳統,詩の國歌の國の感傷的民謠は、情趣津々ご湧いて一讀卷をおふ能はざらしむ。民俗研究家の無二の資料こして、鄉土藝術愛好者の好伴侶こして、又一般の趣味讀物さしておす、する。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=456,1697,37,10",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "意"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=388,1993,29,422",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大正十四年十一月十七第三誠暢型河『奄第八年第八號昭和七年八月一日發行f11日数行"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=398,2700,20,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奄"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=402,2893,9,16",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "行"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=393,3453,20,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=324,3405,69,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "inches"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=345,3445,13,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "cm"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=288,2091,-19,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1015-11-03:00REさくさく"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=246,2165,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "石"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=247,2724,19,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "野"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=185,695,30,242",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奄"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=207,2247,61,229",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "黑建夫鹿兒島市西千石町三番地電話一六三八番"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=189,2739,53,211",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大路府元町一丁目電話八二西(和泊)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=167,2983,42,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "フリー"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=144,1675,33,41",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=-8,1966,274,89",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新泰"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=112,2247,9,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "門"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=9,3037,238,36",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "九百五十二元化"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=45,2104,104,120",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "専辨高質特士配許"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=5,1621,113,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "仙桂田池"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=41,1022,26,7",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "舞"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=29,1685,37,10",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "年"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=43,2350,30,37",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "平"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=73,2464,-32,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=53,2592,6,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "醫"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=47,2654,16,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "師"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=35,2692,40,270",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "內藤榮昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=2,2243,22,254",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東京市四谷陽花園町七十四番地"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p740#xywh=2,2728,24,254",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "神戶市葺合高大通一丁目四七"
+            }
+        ]
+    }
+]

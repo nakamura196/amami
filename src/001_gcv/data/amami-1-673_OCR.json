@@ -1,0 +1,2015 @@
+[
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2350,942,46,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "加榮川"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2342,1019,61,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "納烟"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2343,1177,55,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "力豐義"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2369,1380,32,8",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "赫"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2370,1474,28,38",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "榮"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2342,2424,13,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2303,2249,57,134",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "代表社員雨信阳吉m中原行賣"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2323,2681,60,225",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "事務長桑烟國光賄長神田平"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2301,2462,54,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "查熊利光忠宜"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2305,2436,30,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "泉果"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2264,2231,32,261",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大島無盡合資會社"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2257,919,14,96",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "龍鄉村長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2253,1312,13,195",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鹿兒島縣望業試監場大岛支場"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2259,2606,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "月"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2252,2272,9,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2229,2308,31,71",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "池灿十郎正親正吉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2226,2658,54,233",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川畑汽船鹿兒島取扱店濱田清一"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2243,2257,-9,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "LIN"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2214,988,29,227",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "佐々木今五郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2225,2420,34,71",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "吉好飯島吉次郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2211,1385,29,8",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "海"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2210,1471,29,8",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2139,2643,48,228",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川畑汽船名瀕取扱店大運社竹山金良"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2093,2198,50,248",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鹿兒島縣大島高等女學校職WEL"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2090,1006,25,6",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2083,1370,26,238",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大島純同業組合"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2067,2630,42,222",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川畑汽船古仁屋取投店澎哥太郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=2071,1139,11,86",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "語指村润m"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1934,85,109,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Black"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1802,43,254,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "©Kodak,2007TM:Kodak"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1917,2188,14,87",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "內外科诞法照門"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1887,982,53,261",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "湖四路米穀雜貨商松崎大力郎商店名洲本可(四所》"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1892,2202,16,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "醫師"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1899,2328,9,6",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "可。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1875,2381,33,88",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "安齊ht=\"仁川通"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1886,2562,17,105",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "南診療院"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1847,1006,17,96",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東京丹羽"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1849,2685,15,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "自"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1843,1129,11,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "心!"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1847,2194,14,136",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "們找尋常高等小學校"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1829,1329,31,288",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "天城武原嘉豐"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1834,2768,33,82",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "那茂"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1818,1122,12,117",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "名額町役場前"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1820,2204,16,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "校長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1823,2440,7,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "準"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1813,2747,14,100",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東方村古仁福港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1721,84,142,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "3/Color"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1736,959,18,75",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東醫院"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1733,2236,21,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1727,2445,25,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "益"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1704,2327,14,144",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東方村古仁屋港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1704,2576,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "草"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1694,956,17,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "醫師"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1687,1023,32,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1682,1151,36,78",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "喜齊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1685,2648,48,204",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信出原安庸商店古仁畢港海岸通"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1683,1132,13,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|E"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1672,2206,16,65",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久村會議員"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1651,1119,15,116",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東天城村山鎮"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1642,2320,21,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "島"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1521,1978,239,81",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新疆讓"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1637,2447,23,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "俊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1632,2587,24,162",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "「薄利多賣主義」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1536,83,112,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1613,2423,15,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "芝"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1589,1491,32,34",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "重"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1588,1608,33,9",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "德"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1532,2548,86,50",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "並報報糖海参"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1532,942,39,163",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大阪商船简客取极店池烟運送店鬼浦出張所站"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1530,2568,88,45",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "健小洋照的营品的牧"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1551,1469,17,144",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "伊仙村杂木名"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1554,2645,35,203",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "省吉義俊商店"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1522,2723,16,126",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "伊仙村鹿浦港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1488,1219,33,9",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "定"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1484,2195,70,155",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "陈川治高等小學校村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1485,2436,31,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "人"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1486,2275,12,30",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "||||"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1463,1113,14,115",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "伊仙村距浦港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1425,2766,21,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "末"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1426,2698,6,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "崎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1311,84,168,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Magenta"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1364,1031,20,57",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "取扱店"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1336,2638,110,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "兒宮城覆"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1333,1326,36,289",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宇檢村長貴島市太郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1347,2189,18,169",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "須子茂尋常高等小學校"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1283,2553,134,53",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "場驗試產水縣岛兒距場分島大"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1307,2687,73,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "外玉西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1306,2757,74,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "員實大"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1264,2823,179,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "番港同廣村基長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1317,954,18,48",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "雜貨商"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1306,1089,35,140",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "惠利商店"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1291,2191,36,273",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "校長秋月公豐"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1320,2798,-14,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1265,685,53,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(17」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1275,1137,16,92",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東天城村母開港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1242,1910,53,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "[19]"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1260,2727,60,117",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "職員東方村古仁屏港電話一六番"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1135,3025,48,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1673"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1061,666,52,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "[18]"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1080,925,18,117",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宇檢郵便局"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1034,1025,63,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "蕾局"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1057,1440,21,86",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "薄利多賣"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1052,1908,50,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "[20]"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1043,943,16,46",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "局長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1063,1182,-27,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "人||--"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1024,2225,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1024,2262,12,18",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=1015,2357,21,93",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "島為英"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=981,1273,66,68",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "食化藥品品種鞋"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=960,1434,80,163",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "濱田國四郎親切本位"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=988,2657,60,177",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山甚四郎役大村豆助"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=937,2211,58,18",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "收助"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=934,2259,52,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "役役"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=918,2589,131,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "書收,助村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=951,2593,18,150",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "收入役流納"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=935,2213,18,66",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "收入役"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=932,2298,20,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "柳"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=930,2342,19,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "澤"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=914,1325,20,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "並二"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=830,2721,218,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "原浦田納村山"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=909,2655,21,45",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "記德"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=891,940,16,194",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大岛轴同業組台市仁川出張所站"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=887,2223,16,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "普"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=885,2385,20,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=885,2591,3,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=861,1290,34,118",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "御旅館大"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=861,1589,32,8",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "屋"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=870,2692,20,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "保"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=838,943,36,223",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "細檢資員師玉當"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=841,1180,33,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "幹"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=814,2522,117,36",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西鎮"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=846,1187,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=829,2763,59,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "武寬"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=371,3,861,123",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "YellowRedKodakColorControlPatchesGreenCyanBlue"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=823,1456,20,142",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "和泊村和泊港棧橋通"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=820,2141,30,34",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=706,2427,285,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "健隆郎次篇武郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=754,2337,106,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "原田田"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=564,721,392,89",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "年新录"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=671,2807,372,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "經忠隆治郎義稳助助耶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=756,2587,94,18",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "全全全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=776,3456,-11,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "THE"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=732,2139,34,34",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=627,2381,234,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "治善精安五豐"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=675,2671,163,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "叶酒積津清"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=712,2598,16,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "空"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=710,2722,20,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "井"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=699,931,18,145",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "篠川尋常高等小學校"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=663,1299,55,209",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奄美大島民謠一番中山音女吹込しコード"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=665,2208,20,68",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "書記補"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=656,941,18,46",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "校長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=674,2586,5,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=646,1041,35,171",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "本田榮碩"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=645,2138,18,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "役"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=432,2199,431,116",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "全全全全記組記羊拿布榮幸,伊重三作泉田西艺合版農潛質強"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=639,2520,34,34",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "役"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=632,2597,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=620,2206,19,104",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "林業技手三"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=631,2690,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "永"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=518,1272,130,91",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "v各大米和吳島毅洋服苏雜太下種並物貨物|"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=590,2587,20,107",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "糖業技手福"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=573,2426,64,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一良"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=554,1458,42,114",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山木彥熊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=560,2132,33,37",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "場"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=571,2227,21,172",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "業技手重野長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=477,2332,209,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "入地野浦田"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=549,2542,36,10",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "場"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=552,2598,18,53",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "設業技手"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=500,929,57,272",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "古仁庄郵便局局長肠田文太郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=482,2379,100,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "義前長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=507,2809,104,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "志淳央"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=504,2669,93,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元吉福"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=507,1503,19,97",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宇檢村湯湖港"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=435,2423,67,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信雄"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=425,2596,105,233",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "農會書記元宮與志宮壽美宮地藤太郎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=453,919,17,84",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鎮西郵便局"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=413,2581,112,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "書組砂合版農"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=441,2715,85,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "地松井"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=436,2379,21,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "季"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=417,936,26,271",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "局長野上成巧"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=340,3405,58,17",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "inches"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=345,3449,27,15",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "cm"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p673#xywh=415,2634,106,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "記部業記組記"
+            }
+        ]
+    }
+]

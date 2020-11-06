@@ -1,0 +1,2939 @@
+[
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=374,3,855,120",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "KodakColorControlPatchesBlueCyanGreenYellowRed"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1721,44,334,73",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "©Kodak,2007TM:Kodak3/ColorBlack"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1318,83,152,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Magenta"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1535,84,114,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2195,591,202,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "内長319長長?"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2120,622,18,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "内"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2038,639,-10,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "--"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=508,662,68,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=954,657,7,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1035,657,6,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "登"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1117,657,23,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "登"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1685,661,63,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "根根"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2258,600,29,128",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "阴似孤础加"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=420,684,27,7",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=637,683,28,7",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1805,672,21,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "根"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1811,691,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2186,646,228,112",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "藤島576島田41|40力直496"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2006,683,30,66",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "LM但同"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1685,716,62,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "金本"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2042,773,15,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "尝尝里曼"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1805,728,19,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "本"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2118,744,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "荣"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=947,774,24,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "直"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2087,619,53,285",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "藤奶奶跳跳師認似础師既昭奶奶酪"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1686,773,62,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "富金"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1798,783,5,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "重"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1856,797,24,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "不"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1207,656,331,287",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "登70登59434925539登16003872666360738927088671415280122675427285146政676491295|498298155615743216580457732324121"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=419,792,29,155",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "清元W昭明"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=504,792,74,149",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "治的吐奶英吉喝奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1114,757,117,183",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "政隆听叫明(宇太郎)卯太郎明明那"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=896,777,74,164",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(曙夢)%3B隆588"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=633,797,31,151",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "成良昭明陽"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1685,831,63,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "彰直"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1508,767,29,174",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "政良353"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2183,770,64,122",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "力娜奶奶純奶阴"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2302,775,69,105",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信MUM造W陽明"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1026,850,31,79",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "隆199"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1686,858,137,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "143291709227"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2021,812,14,110",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昭昭测机"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1798,841,29,107",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "德昭昭仍"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2134,966,231,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "「中3111788421中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=632,1005,121,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|25621野"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2022,990,9,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "十一"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=818,999,196,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "野野野憲則"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1086,999,316,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "則559則昇昇昇昇昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1772,1003,121,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇586昇昇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2041,986,64,51",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中中加州"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2148,1045,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "島"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2062,1053,41,9",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "島品"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2023,1067,10,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "品"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=383,1064,24,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=687,1059,68,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "38村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=818,1057,111,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村村村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1474,997,237,169",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昇昇昇10631昇129321354816860美四千19171光23281"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2039,1073,14,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2087,1113,17,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "豐"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2023,1112,9,12",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "比月"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=642,1117,114,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "29961政"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=463,1006,75,278",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "野村六十一历的历野村網男BB"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2007,1114,-7,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中国大学"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=817,1113,197,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "義不禎道重"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1835,1121,50,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "民嘉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2338,1146,27,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "梁1"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=378,1140,29,116",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "禎勇的四"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=772,1172,330,58",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "題二勇義祐57396419287132733671"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1470,1114,29,148",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "美英的处。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1160,1106,253,181",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "政市WH佐和温仍伊仙村長奶美英關例益川昭盟弧須美子仍%盟"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=725,1190,31,100",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "尚5B9"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1073,1193,31,92",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宋奶奶奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1685,1134,28,146",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "光吉1以四"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1763,1195,28,73",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "進昭昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1838,1140,56,152",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "民養叫观测助听珊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2020,1178,11,71",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "良时时"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2058,1169,18,95",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "光%洲歌"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2143,1159,25,95",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "秀59%"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=545,1234,167,51",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "3812341743594440241"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2212,1163,147,85",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "2361577124516272925517579"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=903,1259,68,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "360541"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1563,1253,229,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "12227110125773345"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2261,1311,63,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中46"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=853,1345,120,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "裁240森"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1038,1347,22,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1125,1345,66,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元元"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1249,1343,7,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1280,1347,12,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "はじめ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1432,1345,197,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "乃廷野野野"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1771,1350,57,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "野野"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1997,1334,201,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "第28中40中中中中中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2261,1371,63,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "能208"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2117,1397,17,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=864,1403,110,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "原402原"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1433,1402,24,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "木"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1774,1408,54,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "口村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1877,1426,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2259,1431,64,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "奥224"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=557,1463,25,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "政"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=380,1371,116,227",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長谷場純友吉們仍文一郎昭四"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=862,1461,111,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "政600八"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1880,1465,6,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "虎"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1989,1451,204,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "275認識資友直"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=769,1403,117,226",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(英代議士)仍仍册義彥%们的基础叫"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1514,1348,116,253",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "上佐太郎肠%野田代議士则豐樹侧例"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=947,1463,28,114",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "八十盛S"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=641,1479,29,154",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宗勁188"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2004,1341,103,269",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中村村m5测盟门必NAMn謙忠24必三88"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1119,1462,75,163",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長榮四仍似文子娜娜m"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1975,1508,220,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|D81-忠三盛敬善"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1033,1481,30,144",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "德太郎仍%以"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1766,1421,63,211",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村茂子奶奶操的证明"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1251,1477,30,148",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "三雄的弧则"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2337,1384,30,219",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山政千代I的H"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1430,1515,71,55",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "典態822192"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2253,1511,30,70",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "美小阻"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1684,1539,29,86",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "吉阴阳加"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1873,1538,23,92",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長奶奶肌"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=906,1603,69,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "675184"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2023,1695,29,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=372,1691,80,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1514春"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=558,1687,285,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "汲汲汲汲汲浜林"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=904,1689,25,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "林"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=992,1688,113,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "林林林"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1985,1681,417,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "「中中中中中中698344205中中中中中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1169,1685,198,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "林806112林林"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2007,1704,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2061,1696,13,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中到"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2068,1715,9,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "了"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=731,1747,108,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川田田"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1986,1739,117,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "「間間間野江"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2221,1735,184,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "江江當田中"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2022,1758,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "日"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=688,1801,148,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "末茂清熊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=992,1803,113,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "茂清行"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1561,1804,24,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "泰"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1641,1801,107,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昌三780"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=422,1718,335,254",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(給理大臣)雄幸脱牛太郎昭英团四茂男奶例良昭四夫阴阳長奶奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=899,1802,31,164",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "茂樹6個例"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1161,1803,31,163",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "周六8%"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1294,1816,74,155",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "為良4Ba藤太郎奶奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1764,1691,66,258",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "部豐長谷場純孝刚盟肇加奶。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1470,1814,29,157",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "莊次郎465"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2006,1767,99,168",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中爱義通信次官机元品说明能础浙高附加雄凯奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=817,1887,199,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "5008456816143"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2216,1751,183,220",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "江清知郎%B四美吉四码满四認出松助說明砲吩良W8"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1645,1887,70,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "569609"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2149,1888,20,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "640"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1068,1915,81,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|235415"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=469,2029,154,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "原早橋橋"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=683,2031,69,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "橋137"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=816,2031,69,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "橋橋"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=948,2031,67,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "原花"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1078,2031,112,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "花花春"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1254,2030,245,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "春凳原56820752"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1559,2031,176,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "294治春春春"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1991,2023,250,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新165623104新新新"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1873,2048,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "春"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2299,2036,104,32",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新新新"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2039,2055,13,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "新"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=471,2088,151,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "田川本本"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1081,2091,107,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "田田田"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1256,2089,65,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山知"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2147,2116,21,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "納"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2184,2117,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "里"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2218,2118,20,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "島"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2298,2103,107,29",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村村庄"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=469,2144,153,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "湧祝中知"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=949,2144,67,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "守校"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1078,2145,111,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "安千島"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1873,2164,20,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "德"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1986,2135,253,90",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(8731932161恒莲行|897537177定18明340184寿秀則"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=508,2160,71,150",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "祝秀Sw盟中佐盟"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=766,2145,121,164",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "義隆四%w兼四郎SS文藏踢踢"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=806,2202,385,86",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "長豐城里116782261220614422181377516291"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=944,2162,29,152",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "守国奶机奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1250,2168,118,130",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "榮行SW神太郎网敬础观"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1685,2161,105,122",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "金良四码伍熊四四福俊凯認"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1254,2178,289,136",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1766382102行郎敬837399117重402121244101312642315927"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2333,2123,66,190",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "村植宣志%文敏的担"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1211,2234,25,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "168"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=686,2288,25,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "145"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1834,2281,59,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "18352"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2177,2234,63,103",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "秀奶奶則昭昭昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1985,2279,65,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "「S13"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1991,2385,-7,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "了"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1211,2379,112,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東東東"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1432,2380,111,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "東東東"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1594,2377,119,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "1571東640"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1769,2373,56,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "97東"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2019,2375,-10,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "巴了"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2040,2384,36,57",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "无西山"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2119,2387,198,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西西西西西西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2378,2416,26,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2042,2459,11,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "石"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2122,2447,194,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山山松當倉村"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=509,2368,639,283",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "80655東東東東東165東東167後原山127280383貞長尚岩保440299良昌德美賢52256315347150544025394|120395715449113612674415868110471815"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1211,2493,112,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "前六晚"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1806,2485,73,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "前「七"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2018,2488,-9,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "在。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2042,2517,11,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "-"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=424,2390,30,262",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥後翁助仍孤研"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1430,2466,323,110",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "656義西1837前657614664615忠照美秀"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2117,2530,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "清"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2152,2530,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "青"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1210,2549,114,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "豐良義"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2376,2538,27,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "健"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1119,2493,29,162",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "三省的B还"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1031,2504,30,150",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "仲一如仍m"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1250,2502,29,158",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "六良的盟盟"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2040,2494,37,154",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "嘉鈍校長姚cm"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1993,2606,11,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "管"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1644,2566,28,88",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "繁奶奶的"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2179,2522,138,181",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "三日志明師四志旺的四态秋阴阳哪武志娜%"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2112,2587,22,93",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "良叫叫仍"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1804,2627,22,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "40"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=562,2710,23,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "平"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1992,2722,9,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "七"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=656,2713,7,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1807,2705,87,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥肥肥"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=381,2710,112,53",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "47721平49255"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=740,2715,325,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久501久489久209久久"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1842,2727,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "北"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1309,2724,4,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1390,2723,17,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1483,2723,5,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1564,2721,64,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥肥"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2148,2769,19,5",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1687,2739,29,65",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "肥後"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=563,2769,11,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1757,2763,126,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "187後後後"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1993,2791,10,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "行"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2036,2741,17,68",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "胡昭昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1477,2777,23,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "後"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2219,2759,176,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西西西西西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1564,2777,66,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "後後"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1875,2829,18,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "西"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1992,2835,-9,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=824,2830,240,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "喜685澄578源義"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1994,2848,9,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中产¥"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1565,2834,18,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "熊"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1691,2832,22,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2022,2864,10,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "00}"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=463,2782,30,206",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "川忘道45%"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=644,2786,32,206",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "井岩美24%"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=732,2783,28,214",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "況喜和榮46n"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=557,2845,27,146",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "宮秀奶奶奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2148,2892,17,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "当"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1251,2741,76,268",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "久留代議士)的留義鄉HM8"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=909,2884,94,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "秀651能"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=816,2844,32,154",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "喜美說明昭昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1384,2853,30,119",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "吉民盟湖"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2005,2921,-13,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "香"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1471,2855,31,149",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "吉次听%B"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=904,2908,29,89",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "秀础盟昭"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2333,2902,60,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "信源"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1558,2872,72,130",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一郎仍既出展H似观"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1837,2874,58,106",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "提昭似奶生研奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2019,2921,179,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "198787641932182825"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=908,2943,155,54",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "232815147619158"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1684,2905,29,97",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "夫观奶奶"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1125,2975,376,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "674505439886274229912453"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2143,2946,22,99",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元弘明明"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=2211,2902,182,189",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "彦熊仍昭四靖昭昭真奶奶夫础奶源一郎丽机械"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1139,3039,70,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "877-"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=344,3405,54,17",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "inches"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=347,3451,26,15",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "cm"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p877#xywh=1017,3456,16,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "8"
+            }
+        ]
+    }
+]

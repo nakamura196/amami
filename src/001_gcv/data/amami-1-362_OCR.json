@@ -1,0 +1,772 @@
+[
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=2207,1748,13,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "ww"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1968,3449,42,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "119"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1893,2362,28,124",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大島議員の"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1715,46,336,78",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Black©Kodak,2007TM:Kodak3/Color"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1880,3449,46,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "118"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1830,811,90,181",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "名瀨實科高女縣移管反對理由"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1840,2401,31,8",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "印"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1781,835,18,46",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "縣育訴月"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1781,980,18,40",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "元綱"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1756,2438,61,130",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "昭和三年通常を見て、"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1718,2458,17,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "城"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1719,2562,19,55",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "生(行)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1709,3453,37,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1655,2341,44,278",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(編者)城南生は某h刊批:解改記者で毎日露育係りさて常に出し、控城者名の記"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1630,2359,12,47",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "者である"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1531,87,108,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1233,1080,662,296",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "中町長が六町議と共に政友會に入蒸した程韓茨として大左の如き新聞記事がある。町長等が上悠して支長につて見ると支超長が変科高女を是が非でも六萬四幾らで引受けて管現させて見せると云はれた.解の方ではどうしても町内十二萬圓を負担せねば引受ける異には行かめとの事であつたが支端長が夜を徹して､務部長等と全く脱嘩腰になつて交渉:た結果、六角回に引下げィ貰つた、そして賀科高女移管と築港とに幽し支長等に対し感謝の意味を以て吾々は政友会に入賞した云々解下他郡の科高女郎移督の先例を見るに何れも、地元が十幾歲図を担してあるのであるから、が大島高女を十二萬圓以下では引受けぬといふは宮に然るべき事である、そ…て腺當局は名演町が大切な義務教育さへも十中級は不徹底な部教授をやつてゐる、財政難を、充分了解しておるから十二萬國は切結めに切結め教育の効果を殺がない最少限度としたのであらう。然るにその殆んど半額の六高回に引下げてどうして教育の充実向上か出來るものか、どう考へても首肯し得られないのである。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1179,1415,744,299",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "平民総氏(煙草元貸捌所勤務)武町一九四の二に同上泉頻越氏(盛長谷地方事務所社會保)新年休を利用して崎省波貸幸氏(建築技師)同上平清照氏神戸製鋼所託員)同上,來麗公岩切滑市氏(在鮮辯護士)同上4永井龍一氏(東京府祇育協会主事)同上、在麗郡有志は一夕本田食堂に於て氏及野村六十一氏大島信販購組合理事)のため晚會を開いた、出席者冲元柄、皆吉督、吉川前友、岩切原秀、登政良、重松正良沖野森起、真田清二、武山兵信諸氏A麓氏旭川裁判所怜事)十二月廿六日付五秘体下賜ム福田修氏(大速實業家)帶魔中公群山明氏、密学士、長崎醫大出)奄美名鑑に歯科とあるは誤植公芝山實氏(醫學士、東京帝大出)同上4中島吉原氏(香姓石、母開校長)燃外型事觀察郎校公n盛降氏(古仁屋校長)同上高田直三氏蝶農林技手)食議のため上京師任ム富江幸廣氏、同)同上公弘野耕園氏(名瀬十三屋旅館主)下諏の父排同氏を訪問のため旅行"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1176,751,576,298",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "名演賞科高女子移管案は風船玉政策であつて、風船玉の如く耶蔵出を膨服せしめ疲弊困憊せる郡民の負担を会々過理ならしめて海には良船玉の如く破れ、郡民を破産の為目に降らしむるものである、それで時機向子の理由を以つて大多数を以つて否決になつたことは営時の新聞で世間周知のことであらう。吾が郡の男子のためには大島中學校がある次に女子の為めに大島高等女學校を設置することは當然の越ではある故に際下各町村に於ける貸科高女が移管の前例の如く、地元なる名瀬町が相営の設備をなし、そして二ヶ年の経常費を負担するならば、假令名湖近傍の女子のみが多く入壊して全郡の女子は入せざるとも、吾々は決して偏狭なる地方的感情に囚はれることなく、その瞬移管に賛成するものである、然るに今回の場合は地元名線町の密然なすべき設備が甚だ不十分である、それでは女子中等教育の充向上が出來るものとは認められないから~移管に共鳴し得ないのである。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1287,1986,637,300",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "可解とするところである、若し縣政に於て特に神聖なるべき教育機を利然略のために惡用さるることがあるならば吾々は、綱紀断正の含め、幹政擁成のため,將又政治道徳のため、大に奮闘せねばならぬと思ふものである吾々は郡民の代表者であり、公僕であるから都民多数の意志を尊重し、それに自己の自由意志を調和して、行動すべぼでこれが、各々の使命である、ところが名瀬偵科高女秒にけ瀬戸内、徳之島、沖永良部、與論等那民の多数が大反対であつて、反対の電報や書面が頻々として繋や蝶議等に來たばかりでなく、反対運動委員が多数出魔した吾々はこの郡民多數の意思を身用するといふことを考せねばならなかったのである。吾々は多少なりとも縣民の福利進のために貢献せんと繋議になつたもので、はば~政党加の義勇兵であるから一身の毀察突貶はこれを省みる所でなく、街も韓民の多数の編利となると信すれば、百武人と雖も我れ行かんのみである、母の日にはらざるもあれば、完求めるりもあるから吾々は限に良心に従つて行動するばかりである。(終)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1534,3453,38,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "114"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1264,2654,657,292",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "公卵新森氏(三菱社員工喚士)日本水電取締役松下養士氏令嬢静江さん(二高女心身)と校結婚因に昭氏は二月一日岡聯隊に入営A大久保禎二氏(長崎税關檢疫路燕本聯隊入<菊地經成氏那月を引揚げ名富町移轉<小田滿直氏(大島高女教論)冬休出魔公北痴善良氏(龍神村龍神校長)阿木名校長より轉任里吉信氏大朝日入社<久木田秀胤氏知名實業家)出馬4江藤助氏(和泊同上)同上岩崎能章氏(大阪府土木部記)長崎熊、鹿兒島土木行政概察A山岳見政氏(與至村長)香▲南洋磁管下の移民状況を觀察した。ヘ久本格秀氏(谷観巡査)深川陽石場町一五へ轉居一(昇金川氏(牧園村林薬技手)就任森信吾氏(耐久中學校教論)冬休時(東前豊氏(人吉高女教頭)同上(大津が氏(電話課勤務)田中宮久氏令妹ツル子さんと結婚高麗町自宅に於て多数の親戚知人を招き被端の女を張つた來當重氏辯護士)東京市谷孫目立飲補の"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1449,3451,37,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "13"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1419,3397,-15,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1303,88,170,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Magenta"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1181,2322,440,297",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大郡選出の際會議員六名中水井賀親中江縛知郎、叶賀統、結消二の世代は純然たる政友派議員で、新富に止つわるのは沖元綱氏と永非難文氏の二人である。つまり六名の議員は二派に分れて大島郡の振興島民の編利を明らうといふのである、政友派終員は議場外に於てわが無內閣の後光を笠に素吾等が一度起てば凡そ意の如くならざるものはないといはんばかりに旺に策動し、名部祭港名郡高女繋立移特必ず成しげて見せると豪語しながら議場に於ける言動に至っては何等民間に連絡もなく、統もなく而かもその吐邱する異論は、の邪T場で・議論と大髪なく、すべて大麻とい上小區域に多酎しての立金は、ゆくとをする解議員の館とも見えなかつた、とても多"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1358,3449,36,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "112"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1264,3447,45,27",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "111"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1269,2127,10,81",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "・･・・"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1238,2672,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1179,1992,91,294",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "鹿兒島→純菜習所時報毎月一回十日發行、一月十H射三號を発行した。2の研究発、光沢様作設開で断業者の文字かゆくない。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1224,1155,-14,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "◇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1156,87,63,30",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Red"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1182,3449,30,24",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "|10"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1179,1097,16,278",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "出水高女縣移管の際は備品費だけで二萬六"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1118,3031,72,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "362-"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1002,1992,76,294",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "を向みにまはしての人に勝つ見込みのないことは判かりきつてむる、それを知りながら彼等は何故に"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1028,2707,37,167",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "各地奄美"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=1005,3453,23,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "18"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=949,88,87,34",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Yellow"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=954,2047,28,150",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "名瀬築港3"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=954,2707,36,171",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大阪徳州會"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=747,745,330,297",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "干五百五十回であつたが大島高女は其の六分の一にも足らぬ確か四千園の備品製を計上してある.これで教育の効果を堪げ得られるものとはどうしても思はれないのである。一昨年の解合に於て川内中學校の建築実を坪宮百十回に修正した、然るに蛛は百二十回で原案執行をした、店が、大島は風地帝であるからこよりも丈夫な建築でなければな心から値段の高い材料なる上割高の迷貸を加算されなければならないからどうしても球営古四五十間を要しなければならない筈である然るにタッタ八十間とはいかにも不可解であ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=781,2324,299,294",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "されて購地に物笑いの種子を時くことがある議員である以上は少しは事規則も心得ておかっと紳士としての体面を摂ふことがある、に今年のあのカトリック攻撃は一体何の感めにやったのか忠君愛國俺一人といつたやうな議論け聞くものに感動どころか、龍の反感をさへ殴らされる。凡そ日本人の血の流れてわるもので阻國愛のもえてわないものはないであらう、それに哲学的にも宗教的にも致養なくして世界的に根を張つた宗教攻撃は却つて自己の貧弱を暴露するやうなものだ、次"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=902,2774,29,129",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "の新年宴會"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=377,7,776,119",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "KodakColorControlPatchesCyan"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=731,88,124,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Green"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=472,1076,604,297",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "く町のみの經費支塀で昇格させるものであるに拘らず他町村の反對を見るは全く.慮外千高だと聲明したと新聞紙にあるが、昭和四年度大島高女珠算中に千四百四の燃費が包含されてあるのを知らぬのであるか、又縣移管後永久に名瀬町が提要を支解するのであるか、もし然らば他の反對は意外千萬であるが二ヶ年後の城張攻及維持費は全部郡の負担であから後継を危惧して反對するものでこれは決して無理ではないことである。彼の志布志女子食業學校が二十余萬圓の設備あるにも拘はらず縣移管否決の主なる原因は後日の弊賀過東を考慮したるに基因してるるのでも、大島船町村の反対が元なることが諒解さるであらう。螺下村立図科高女の蝶費補mは二百五十円が校、三百十円が六校、七園が1校ある然るに名源兵科高女は從來年々千四百回といふの最高補助額を受けて居つたが、今回→移管否決の修正には更にハ百回を増加して二千国の補助を希学したことを知らしむる必要があると思ふ。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=767,3452,-11,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=724,748,12,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "る。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=355,1413,721,296",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "(中馬勇三次氏(名線消防組頭)消防組親関式参列泉常五郎氏(東京市日本橋區箱崎町市立箱崎寧常小學校長)舊験校探就任ム前他義氏(㎜)神戸市兵庫病院動務A像村芳弘氏(ドクル)四月まで滞京の定4岩切明治氏(情棄構習所技手)出治常徳氏(大阪府警部)母堂病氣護のため崎村ム土岐直家氏一月一日大島民報を再興行した◆奥山敏三氏(醫師)大連市西公園町二一んに移轉◆猫本嶺幅氏東京市外目黑町中目黒町五三Oに轉居A培品鄭氏(学生京城府松月洞二市毛氏方神居……雑誌部所用を帝びて卒塩地方出張公東條新里氏(東方村阿木名校長)能瀬校長より梅任(永井実親氏(縣會員)鹿兒島轉任の跡安をに開い別に在園郡有志は一月十九日内奈特原」に氏の城迎合を開き,元田正願氏發企人を代表して挨拶した盛姿であつた。C吉川前友氏兄島市谷議員立候補の由"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=475,1993,463,297",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "主張し、名ソ兵科高女の聯立移管を支持したか.呼ろ彼等が政友派に成し、黛派的に策動したがに名神高女が立移管の如きんも可能性があり且つ集に迫つた問題に対してさへも、新築をして横中を押させたのではないか、如何に政竜政派を超越するといつても繰派根性に引招られてある以上それは口先だけの事である、又大路問題になるといつも內地の議員は居眠りするが場外へ出るか議場にみても口を殺してうんともすんともいはめ、これは大路議員が余りに儀古過ぎるからである、大島議員の責任は徒らに議場で駄斎を許し、それを送梨民へのお土産とするだけが能ではない、も少し內地議員をして大島問題に真剣に關心せしむることもその一つである昭和三年の通常軽管にては兩派の議員何れも相営に意見を吐いた"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=351,740,361,306",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大島部の女子中等教育には寄宿舍を大島式→普通式と一樣に設置し、家政に程ある人格者を含監として通中距離の遠近を開はずで皆寄帝に収容し、全學期間の前半は大島式寄宿舎に於て、後半は普通式寄宿合に於て家庭的訓育即ち一般家事は勿論、特に規則、秩序清潔整頓等の品性隔治をなすことは何よrの急務である。然るに今回の大島高女像外には寄宿谷の建英袋なのみならず、將來必要に応にて建築するとは教育的見地からして最も賛成出來ざる点である。。名部町長渉は質科高女韓移は名瀬町のみの負滑で何等他の支弁を仰ぐものでない、全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=577,3466,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=358,2645,525,309",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一月九日午前七時より東淀川區本庄町天六亭の二階大廣間に於て開催された急な価しにもかはらず操想を裏切つ」球定人口五十名を超過すること十八名に及び料亭に番狂せを為せるほど素晴らしい盛合であった。定刻に至るや男盛りの三十前后の令員が晴れやかな紋服で威儀正しく配膳の前にズラリと列ぶ紀乃會長の年頭の群、顧問游護士.全稿ァ士囁く昭和四年の新しい希望、森意明氏の白務報告ありて直ちに安合に移つたがこの降間の酸新さ頼母しさ氣強さは正月でなくつては見られぬ光景であつた、料亭の美に速の斡旋によつて盛に酒盃が交換される妓三味線大政が持込まれ、歌へや舞への騒ぎの中から止むに已まれの塩土氣分が流ぎつて、俊良や.大島アサバナなどが飛出して各自の熱でぐ、藝子連手持無沙汰でどちらが者かわからんと覚めそやした斯くて狂歌乱暴で十二分の歌築盛して午后十二時"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=358,2318,379,300",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "永井實親君は議論としては余り冴えた方でない、聲は大さいが言語が明瞭を飲くために人に聞きとらせるには極めて都合が惡い今度の合では相當に元氣を出したが何だか全元氣だといふを與へ、そのいるところは体感を強ゆるやうな緊張味のない主張であつたやうに思ふ、自分の選舉區の事ばかりいて大局から立論の出來ぬやうなものは縣會議員の社格がないといつてよい、永井君が本の水産業について口を開かなかつたのはどうしたことか、大路は水産の開後なら目の前に愛車が控へてねるではないか叶實統君"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=492,3452,14,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=456,2044,-20,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "ME当"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=434,2107,26,83",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "滿二君"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=358,85,90,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Blue"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=353,1083,90,292",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "地方自治の蝶政は政森政派を超越して公無私に愛理すべきものである然るに名瀬町長や町は資科高女と楽港問題の神秘として政友合に入索したといふこれ吾等のる不"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=395,3455,17,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=354,1997,64,288",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "などは尤も熱心にやった方ではある。けれど君は余りに無反省な議論を吐き過ぎるために折角の熱群が時々路線してカルケチュア化"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=326,3405,63,19",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "inches"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=344,3445,13,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "cm"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=212,1425,43,291",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "に近く合した会社の合でもった、日本合へ空用者芳名の知し一、今給記号春続吉」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=-1,722,254,659",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "もん酒を済する方であるが、石ははおそろしく文言集の流を献ぐ人で外国人度がいい、音も可成りされてる、あの日本語を聞くように何かゴットしたものれでウンと冠強したら何とかなりさうだが思がある、そしてよく「しまして」とい特ſい出し考へ出しの議論が多くて、相富準備しな接税詞や「ありますですから」といふやうてからかいることが少いから見榮がせめやうな属特の語法が異様に盛いて折角の議論をであるが、裕化してしまあ、君は大島に於ける「今奪信」中江病知郎君といはれてうるさ5である山身が出身だけはい~幕舌をもつてわる、けれどもこれも勉にいふことも精神的方面のことが多いがその代り四角張つた議論に流れ易いうらみがある逗がたりない、もつといふまへに調査して、どん~急所をついていつたら相當場架を博要するに大応議員はも少し大島を超越し、鹿するであらうが、どうもあれだけでは物足ら兒島駅のが脅議員であるといふ當然の立場に自分を置いて大島の問題を考へ、之を批判しぬ。28"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=-3,1416,194,273",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "二、づい牧納盛富本則へ参會諸氏名(順序不同)紀乃作会谷村谷二中網直普福澤龍也金城芳滑具志安1東郷直営中島正鎮承久吉盛E宮厚牧貞敬幕良秋盛川森隆中山長急良元仲山衆森憲明仲里貝吉木資ま"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=9,2003,243,309",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "す。夫れより先与者会行中の停文界士のおさ九た量野点考と私同様の人で、民俗学に就いて研究を発表して學界の注目な者を起してる、男がおる氏の人の研究は矢伊波文學士と同様、日本の南方である奄美大島から出發し奄美大島の民俗がぶリネシアンと類似してやると云站からして、ボリネシアン研究ではホノルルのショップ博物館の研究が世界一であるから是非行つて見たいと云ふ希堂で其の前に今迄の研究をめて小冊子となし岡書院から行するために序文を知名の士に頼みたいから私に行つて奥れ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p362#xywh=8,2335,246,658",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "のかとくと、叱られたが民関は大路て言う引根台に登る。倒でしたと云ふ、可笑しいな今頃焼き打でも香美式の料理に舌鼓打ち、か、積に国あるまい、落ちついて話て見給へと茶をす断なく素よと見る間に酒に一段の元氣を得める。蘇案人の面分時間は午後一時から三た速中から怪気格が上る。特に川龍吉氏、時まで。秘書並木氏に“め中込んでおく必要梶山岩見川氏、能関登氏、龍野金澄氏、森があるとの事で富日は既に午後四時過ぎ受直氏、羽村渡美氏等の気格富るべからず、或付け君に申込んだ場がてん。相手にしないは宗教問題或は政問題或は大島郡發展策等並木氏で傳えてくれと頼んだが部守と云ふ各白獨特の越せる意見に拍手は引きも切然らば氏に怒り的丈け取りで英れと頼んだらの有様殊に郷土愛を高唱する龍、梶山、のF.不性無性に二階に持って行った。様子市來三氏の熱烈なる雄籍には一同感激したの如何と何つてみると、受付が飛んで來て先､であった。演説のみならず介奥の方は山下君生がすぐれたいから這入れとあつたのだ、の最新流行歌を皮切りに吉井進行係の手腕に"
+            }
+        ]
+    }
+]

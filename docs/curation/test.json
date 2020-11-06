@@ -1,0 +1,383 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://mp.ex.nii.ac.jp/api/curation/json/aaa5d585-3cd2-4651-ba98-71769b028e19",
+    "@type": "cr:Curation",
+    "label": "Curating list",
+    "selections": [
+        {
+            "@id": "https://mp.ex.nii.ac.jp/api/curation/json/aaa5d585-3cd2-4651-ba98-71769b028e19/range1",
+            "@type": "sc:Range",
+            "label": "Manual curation by IIIF Curation Viewer",
+            "members": [
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,1600,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,2400,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,3150,1900,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,1600,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,2400,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,3150,1930,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,4500,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,5250,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=2700,6000,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,4500,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,5250,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p1#xywh=770,6000,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[1]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,1600,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,2400,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,3150,1900,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,1600,1800,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,2400,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,3150,1800,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,4500,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,5250,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=2800,6000,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,4500,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,5250,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p2#xywh=1000,6000,1800,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[2]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,1600,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,2400,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,3150,1900,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,1600,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,2400,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,3150,1930,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,4500,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,5250,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=2700,6000,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,4500,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,5250,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p3#xywh=770,6000,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[3]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,1600,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,2400,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,3150,1900,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,1600,1800,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,2400,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,3150,1800,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,4500,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,5250,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=2800,6000,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,4500,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,5250,1800,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p4#xywh=1000,6000,1800,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[4]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,1600,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,2400,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,3150,1900,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,1600,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,2400,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,3150,1930,850",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,4500,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,5250,1900,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=2700,6000,1900,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,4500,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,5250,1930,750",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                },
+                {
+                    "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p5#xywh=770,6000,1930,800",
+                    "@type": "sc:Canvas",
+                    "description": "",
+                    "label": "[5]"
+                }
+            ],
+            "within": {
+                "@id": "https://raw.githubusercontent.com/nakamura196/amami/master/docs/iiif/amami/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "奄美大島"
+            }
+        }
+    ]
+}

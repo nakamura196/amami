@@ -1,0 +1,937 @@
+[
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1926,85,113,35",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Black"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1929,1481,40,182",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "縣會議員選舉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1943,2660,18,55",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "各町村別"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1792,47,256,23",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "@Kodak,2007TM:Kodak"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1891,2764,44,60",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "有権者数二四八七"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1880,3449,46,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "118"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1807,3451,20,22",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "17"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1715,88,138,33",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "3/Color"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1609,1420,318,291",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "大島郡では九月二十日各離島同二十五日大島本島の選射を行い、同二十七日午前八時より大島支劇に於て開票に着手し、翌日午後三時に至り終了を告げたが當選者は左の如し當選者當選三三七三票叶實(新政友)同一三〇一七票中江満知郎(新民政)二五八0票永井莊文(元民政)同二五七五票永井實親(前政友)同一二五三六票沖元綱(新民政)同二四四二票藤満i(新政友)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1688,2656,221,46",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "名瀬三方大和宇桜西方質鎮西東方住"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1708,3452,34,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1610,2662,42,40",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "笠利喜界"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1238,768,719,292",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "青島より正田和義永い間待ち兼ねて居た奄美名を御送り下さいまして有難かございます。郡の冷め同胞の冷め御多忙の時間を割いて御奮闘して下さる事は誠に感謝に堪わない次第です。今回御發行の奄美名鑑に依りまして郡同胞多数の方が內外各方面に活躍して居られる事を知り快に堪んません。此の奄美名鑑が我が郡後進子弟の脳裏に印する好影響は多大なものであらう事を信じます。從來先輩方の御意見を御誌に依つて拜見致して居りますが、其の內郡民子弟の教育に就て或人は學校教育に許す傾いてはいけないさ云ふし或人はそうでない學校教育は尤も必要である。仰っしゃって居られまして大体二つに別れて居ります。此の問題に就きまして私も始終考へて居りますが、私は郡の地理的方面から又言語風俗等の点から考へまして、こうしても我が郡では學校教育を拠剛せなくてはならいものさ考へて居ります。筆にする事は誠に殘念でありますけれざ我が大島郡から出て居る處の再年労働者は大部分資本家から信用を失つて居ります。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1240,1092,723,294",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "それは言語風俗が異なるさか、云ふやうな事ばかりでなく、第一忍耐力が乏しい事が欠点です。大体事大思想に富んで居る郡民の子弟は工場労働なごに永く従事するものは少ないです。高等小學でも卒業して居るやうなものなら徒に望みが大きて兎ても一ヶ庭で永く辛胞するものは少ないです。それに紡績女工なさたら全然御話しにならす早く內地化し得られない為め內地女工から毛嫌ひされて恰も支那朝鮮人同襟に見られ寄宿舎など全室を喜ばれないさ云ふ有様です私は既に十年近くも工業會社の人事に携って居りますが郡同胞の事が話題に上る時には穴であれば入りたいと云ふ心地が致すのであります。之れ以上具体的に書き立つるは還いたしますが、今少し郡の人達が反省して來ない事には我郡は暴て特殊扱ひを受ける事になります。話しが大きくなりますが彼の米國や加奈陀方面に於て排日があり英本國あたりに於て之れがないさ云ふ事は如何なる譯でせう。即ち英本國に往って居る日本人は全部紳士であります。官衙でも前舘でも習紳士許りで彼等英國人を使用して居りますっ之れに反し北米さか加奈陀さか支那方面などには出禁者が多"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1529,91,110,31",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1245,2003,717,292",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "リの端金で、商賢人の喰物にして「チャスンガ」を去ったかどうか、協會幹部の非常集會では議忽ら成立して、ヨロシィ選舉費用拾萬囲耳を揃へて差上るから御苦労なれざ在留民慰問さして前記表題の講演を依頼するこ云ふ電報の交換さなり、東京沖繩縣有志の代議士推薦文の發送さなり、八月一日の天洋丸で十三歳の令嬢を連れて、ホノルに上陸せり。沖縄在留同胞の狂喜は只諸者の想像に委せる外ない。氏は明治十一年生の五十歲、一見四十四五位の若振り、明眸豊頻隆準皓歯の造作よく整ひ叡智の閃き豐に、温厚党潤の君士人で、人なつかしき應待振り南国の土色拔けて、發音假名使ひは元より言語のアクセントに至るまで、完全に日本化しローカルカラーのね里を偲ぶべき特徴を残さす、明晰なる言語謹厳哲もせざる態度で立った姿は聽衆に対して良好なる第一印象を残した。講演の内容は前記今上下海外御巡遊の逸事で夫れは古今獨步の専質特許物故一千の幾衆片唾を飲んで謹聴するのみ、演者の修辞話術聲員等に就てsさへ彼れ是れ批評するのも恐れ多し立候補宣言の議論氣が利てる。其要録は第一四面環海の日本國である故に"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1504,2759,331,72",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "一六四九八一〇九五一三五二一八六四九〇四一二二三九4三五六二五二四一七二八二八。一八三三二〇〇二"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1242,2325,720,295",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "國防の第一線は海軍でなければなられ從來海軍々人から二人代議士に出たが何事もなさなかった、久勢力なかった。英國の設省には海軍出の代議士が多士済々である。微力ながら牛生の研究を立法部に活用したい。第二は沖縄解から、の選出代議士なるものは輸入候補者で批しい。自ら立って特別なる事情の下にある縣民生活を、中央酸會に求握して善政を施したい、理路整然記き去り。さ進めて行く處智的群論の先づ中位さ云ふべし。只惜むらくは聲量不充分で一路坦々發動船の瀬戸内海を行くが如し。言語に生彩なく、修際のビュッパイを。摘從自在民衆の心臓に手を突込んで、コレデモカくをやるには未だ程遠し東京の寄席や浪花節を聴いて談話術の妙諦を語り、一圓文學全集を暗誦して修臂の活用を自在にし、情意的雄輝の域に到達する必要があるらし。此武赫々たる快男子、盛名一世を風魅せる偉丈夫、一度びを棄て、濟世救民に携はらんとするに當り、吾人は蘇縣沖縄ご條件を同ふする郡民さして同様の目的に突進せんさする道連れを得る事は吾人の切なる希望である。願くは好淡自重自愛前牛生の光榮あ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1349,2863,586,82",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "投票數一四五一一八一二七四七八二一六九六七一七七五三九八一四二七一三九七一三四五一七五三九四七一四三四一〇六〇一六二二七五七一八四四二二六八一二三一六二二四九八六"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1490,1444,98,129",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "次點二四三界二一九〇票一四六六票八二四票"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1491,1608,97,84",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "吉川前友肥後,憲一內山商忠坂井友直"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1535,3453,37,21",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "114"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1375,2657,199,49",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "触津東天城天城伊仙和泊知名與論十島"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1427,2764,43,53",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "三三五五二六八〇"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1418,3398,-16,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1306,87,168,39",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "Magenta"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1245,1421,230,293",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "伊仙村實氏大島農學校に在るこさ二年、小學校專科教員の免状を得て小学校教師さなり同村教育界のために力を致し後村農會技手さして農政に寄與する所あり、又村議員に舉げられたこともある川八歲龍郷村中江清知郎氏大阪商船学校を卒業し大阪商船會社に入り退社後歸鄉、十三年十二月村長に"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1349,2748,44,76",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "九五四三九三二五"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1278,739,12,2",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1164,3033,73,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "218-"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1182,3449,30,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "110"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1103,3475,12,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "CON"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1083,1158,29,196",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "ドクトル管村芳弘"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1063,1969,16,4",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=994,2330,132,286",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "貨の十四五俵を下げて謝って、飛行機や潜航艇を駆使して、奄美群島の逐鯨戰に一番槍の勇者たれ。(八、二記)●||眼科産科電話六内科外科一般施術名湖発"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=955,2675,162,241",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "誠心誠意お客樣の御便利を旨こし營業いたしますごうぞ郡同胞各位の御引立をお願ひ申します名瀬町金久(衆旅館跡)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=1027,3452,-12,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=973,2412,46,180",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "的關國伊東醫院"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=939,2410,42,188",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "・入院商意)院主伊東順七郎産壁西元いし"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=955,3393,15,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "-3"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=946,2761,14,3",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "み"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=947,2808,13,13",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "や"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=884,2401,37,107",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "內科小兒科久"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=895,2697,51,220",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "十三屋旅館"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=849,2432,32,164",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "生駒診療院"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=816,2480,31,89",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "院生生駒一電話三十"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=357,7,866,124",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "RedYellowColorControlPatchesGreenCyanKodakBlue"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=477,767,638,293",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "數を占めて居ります。即ち無教育ののが多く先方の人達に同化せないと云ム事が一番の原因のやうであります。近くは上海あたりで西洋人は蒙いもの日本人は自分達と同程度のものであるさ支那人が日本人を輕んするは何故でありませう。之れは毛色や目の色が自分達と同じだからさ云ふ許りではありませ、西洋人は人数少なく殆んご智識階級の人許りだからです。それに引替へ日本人は主人から番頭小僧に到るまで日本から引伴れて往って居ると云有樣です、尚それ以下の下駄の歯入れのやうなもの迄渡つて往つて居ると云ふ有樣です。右はほんの一例に過ぎませんが現に私の居る會社外三の會社では大島郡の出身ならばさ職工の採用は断然お断りして居る會社があります。斯樣な譯で私は遠隔にあり言語風俗を異にして居る我郡さしては子弟の教育は尤も必要な事で獎湖せなくてはならい事だと認めて居ります。此点に就ては此の後充分御考慮を頂は1郡の指導機關たらん事を希望致します。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=494,1420,632,296",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "就任して村政を改革し、昭和二年三月解職した五十二威」早町村永井莊文氏明治三十年醫術開業試験に合格し三十一年以來開業今日に及んでみる。二回に亘り縣會議員に當選したこさあり五十二歲名瀬町永井實親氏明治四十二年普通文官試験に合格すの後本縣屬さなり十二年の改選に縣會議員さなり今日に至つた現に水産組合の専務理事である本籍實久村五十七歳和泊村沖元綱氏永年小堺校教員校長たり、後衆に推されて村長、村會議員に當選し村政のかめ力を致し大正十三年退職し今日に及んである六十二歳」天城村二氏鹿兒島第一中学を出で、七高、慶大路科に入りしも何れも間もなく退學税務さなり始郷後新聞界に入り、月刊新聞を判したこさちあつた村會議員にも推されてゐる三十一歳投票"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=774,2675,119,243",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "弘野耕役所、商家、埠頭ぎの方面にも至って便利な場所にあります。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=767,2406,15,85",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "g外科神"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=774,2465,17,28",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "始人科"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=414,1089,653,294",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "瘤里では、補缺選舉の真最中、鹿を遂ム猟師達飛行機の欲しさ此頃、布哇では、先の御召艦長漢那海軍少將が、明年沖縄に於ける極選舉立候補宣言の初幕を三千四百哩外の米領で切って落された。先是在ホール、の書籍商店主米國文學士の小島定吉君は、共的資政策の一ッさして、今上陛下海外御巡遊逸話集を、漢那氏に謹著を講ひ、御巡遊六ヶ月の間君側に咫尺せし名社の御召艦長卓越せる航海術の檻威を捉へ來つて、武南の沖繩縣入を土台に普く在留民に對して日本民族精神の理想を高調せんどの企ては、近頃東京の出版業者がする樣な、担製録釋物の大安質の宣傳ありか、利益一点張りでない点に於て、氣の利たやり口さほめる丈の價値がある。處が沖繩縣六十萬民の獨り息子、王朝以水の隠一の國賀を、紀州熊野の山奥の住人小島定吉輩に取られて、おめく自慢の西手をポケットに控んて居らる/琉球ッ子ちやない。嘗つては居、大和を右と左に操っつて、好妙な外交で、王朝幾百年名･の獨立を維持し來たつた民族ちゃ、沖繩縣海外協會の面々オコル事~三千圓パッカ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=414,2002,708,291",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "る上から下さった盛名に加ふるに、更に下からする民衆の信頼さ敬愛に値すべく君國の巨材たらん事を切望して止まない。併しながら、玄海の激浪、ケ1ブタウンの怒満は甲鐵艦で乗切るべし、社告人心の底知れ、浪や、政海の暗礁に忙を失った前例は吾人の記憶に新なる處、況んや日本名所酸會の泥海では蓋し思ひ牢ばに過ぎる者あらん。幸ひ普通選舉の順風に掉して君の健闘を新るや切なり。沖縄縣在留同胞狂喜の一端を諸君に語らん。布哇オッフ、馬陛カワイの各島に散在する海外協會の支部に於ては、各自の間に選舉費用の奉納帳を廻はすは勿論、到る成便宜の部落くに於て寧食壺漿なごは恐かな事、口市に於て市外三哩牛の海岸で縣人女子供の總助員を行ひ其の數無一千五百人、豚七百丁、牛五百斤等百廿羽密造酒五十キャロン(約一石)アイスクリーム州ギャロン、オレンチ箱を積んで三味線大鼓は更なり、名物の沖縄芝居を仕立て、アッチャメーグ7の大騒ぎ、私も招かれて行つたが、シュンリョシユ節やイチカ節なぎ更に顔色なし”愛する知生の青年諸君‼世界は威し滿州にシベリャに南米に南洋に流展して金"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=754,3471,11,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=440,2334,530,41",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "〇順はわい内案院医名著町瀬名"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=682,2406,78,192",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "伊津部元大島醫院跡」豐島醫院院長岡山學七島一雄入院陽意」産經川崎久子"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=552,2405,112,194",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "外科内科小児科」伊津部前田直次郎氏宅窪田醫院院主窪田繁電話六八番"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=508,2670,232,258",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "右耕園革私の甥であります。同人も苦労して育つた奴ゆる、お客樣に不滿足を與へる樣の事は絶對にありますまいを考へて居りますからきうぞ御ひいきをお願ひしたいさ此叔父よりも特に郡同胞各位へお願い申します下市上新地町木材商"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=503,2421,16,60",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "八千代的"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=472,2441,31,151",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "八木雑醫院"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=458,2728,47,184",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "弘野耕園"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=426,818,33,73",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "布哇」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=418,1456,64,216",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "有權者三九三三投票想成二四九八六(投票率六割三分強)"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=434,2440,37,148",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "千葉醫學士八木文郷電話四十六番"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=430,2773,23,151",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "電話二三四五番」"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=395,3455,21,20",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=345,3405,45,18",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "inches"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=337,3447,21,14",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "cm・"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=296,2680,-7,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "TAS"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=275,1518,13,106",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "紙費一年分"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=233,747,54,26",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "人偉の近"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=242,1448,53,36",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "友社"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=244,2327,52,288",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "天かける異6れてはたぶ金所の月にかこつ大賞遠からで死にまはるを覚悟しつ最後の土をかみし君哉"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=249,1534,12,134",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "以上的苏相盟萧氏"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=225,2696,29,67",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "兵庫採大阪府"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=239,2399,-8,0",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": ">"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=0,716,296,317",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "南州先生忠誠宏量己を捨てたその精神を學代鹿児点縣知事一松」本氏談他人が鹿兒島に水て先づ直成するこさは威光の明眉ど、藩に英主が在って藩政が克く治った事で、験世の偉人四蟠南洲先生の事蹟さである。放て南洲先生世を殺せられてより五十年に達するので奉賛會を組織して本月二十四日は盛大に祭典を舉行するこさになつて居る。先生の一生涯は實に波躍が多か"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=168,2702,34,72",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "岐阜縣東京府"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=4,1064,295,309",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "山の島を語られたのであります。先生の事護に特ては道試目記に関す書物も洋山あり久其の時の古老の口得もあつて世人周知のこさであるから先生の功績に関しては業説を避け先生の人を貪りに付て政想の一、二を述べて見たい。先生の詩に「幾度か辛酸を歴て志始めて堅し丈夫は玉砕するも克全を隠づ我が家の遺法人知るや否や兒孫の為に美田を買はず」さ云ふのがありますが此の詩は最も能く先生の爲人が現れて居るさ思ひます。尚に先生の一生は此の詩の通りでありました。維新の大業に當りても幾度か苦境に立たれたけ"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=98,2006,196,295",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "円年1動もすれば華文前の気風に通れんさする時に當り、宜しく南洲先生の忠量、質實周健己を捨てて国家に謝された精神に学び、社會の運に貢献し図運の隆昌に努力せられんこさを切望する次第であります。近く来るべき南洲先生五十年祭典は只に古人を偲ぶさ云ぶのでなく先生の徳風を顕彰し其の精脚を後世に傳へる所に意義深きものさ信するのであります。"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=-1,1400,229,306",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "箱郡同胞各位が証式前して下さるこさは本計設立の趣旨を賛し、本社に好意を寄せられるものとして本血が常に改激して居るこころであります。而して無資本な本社は全くこの林哲前納のお陰を以って經營が出来て居るのでありますから、これ等篤志の同胞を社友に推:て茲にその芳名を掲げ以つて深謝の微意を表したいさ存します。両ほ各地の同胞諸氏が費前納の上積々本社友に加入されんこを切にお願い"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=7,2368,214,280",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "和泊の牢屋、極めて祖造、連も人間の住むべきにあらざれば日を追ふて翁の五体は枯稿、只死に近づくのみなりき看守役、土持、之ではなられて、在留官に顔ひ出で、私費を以て新年を建造し且畢生の誠%盡くして優遇したりしかば元氣箇に復す。翁父其至誠に感じて兄弟の義を結び共に、国家の為蟲さんさ詩を吟して督を立つ。日"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=10,2725,275,25",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "朝全全全全全全東岐全大兵全全"
+            }
+        ]
+    },
+    {
+        "@id": "https://github.com/nakamura196/amami/raw/master/docs/iiif/amami/canvas/p218#xywh=6,2827,291,127",
+        "@type": "sc:Canvas",
+        "label": "Google Cloud Vision API",
+        "metadata": [
+            {
+                "label": "Text",
+                "value": "薬治森山景資林平野三島紀乃作中山福富大屋美福三寶」福田嘉五郎泉二利光一大島辰次郎宮崎佐一郎奥山八郎田中軍恒"
+            }
+        ]
+    }
+]
